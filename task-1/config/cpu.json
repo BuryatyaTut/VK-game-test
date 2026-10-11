@@ -1,0 +1,11 @@
+{
+  "name": "cpu",
+  "rationale": "1280\u00d7720 at 50% render scale and low quality reduces GPU work to expose CPU-side limits. VSync, frame cap, frame generation and ray tracing are disabled. This is a CPU-oriented workload, not a standalone CPU score or proof of a CPU bottleneck.",
+  "width": 1280,
+  "height": 720,
+  "renderPercent": 50,
+  "quality": 1,
+  "uiOverrides": {
+    "ScreenMode": "2"
+  }
+}

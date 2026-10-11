@@ -1,0 +1,11 @@
+{
+  "name": "gpu",
+  "rationale": "Native desktop resolution at 100% render scale and cinematic quality increases graphics work. VSync, frame cap and frame generation are disabled. Ray tracing remains off for compatibility across DXR and non-DXR GPUs. This profile targets a high GPU workload; the limiting component remains hardware-dependent.",
+  "width": 0,
+  "height": 0,
+  "renderPercent": 100,
+  "quality": 5,
+  "uiOverrides": {
+    "ScreenMode": "2"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "launchTimeoutSeconds": 120,
+  "menuReadyDelaySeconds": 30,
+  "runTimeoutSeconds": 900,
+  "cleanupTimeoutSeconds": 15,
+  "pollIntervalMs": 500,
+  "resultStableMs": 2000,
+  "maxResultBytes": 67108864,
+  "resultObjectPointer": "",
+  "resultSettingsPointer": "/Settings",
+  "steps": [
+    {
+      "kind": "key",
+      "key": "Enter",
+      "delayAfterMs": 1000
+    }
+  ]
+}

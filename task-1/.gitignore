@@ -1,0 +1,7 @@
+**/bin/
+**/obj/
+artifacts/
+results*/
+.local/
+.DS_Store
+TestResults/
